@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Messages/Messages.iml" filepath="$PROJECT_DIR$/Messages/Messages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/icsd14151_Lab02.iml" filepath="$PROJECT_DIR$/.idea/icsd14151_Lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_2_Client/lab_2_Client.iml" filepath="$PROJECT_DIR$/lab_2_Client/lab_2_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_2_Server/lab_2_Server.iml" filepath="$PROJECT_DIR$/lab_2_Server/lab_2_Server.iml" />
+    </modules>
+  </component>
+</project>
